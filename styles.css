@@ -1,0 +1,8 @@
+*{
+    background-color: azure;
+}
+.container{
+    border: 2px solid black;
+    text-align: center;
+    text-decoration: none;
+}
