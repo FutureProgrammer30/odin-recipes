@@ -1,8 +1,22 @@
 *{
     background-color: azure;
+    
 }
-.container{
-    border: 2px solid black;
+
+.container {
+    padding-left: 800px;
+    padding-right: 850px;
+}
+
+.title h1 {
     text-align: center;
+}
+
+a {
     text-decoration: none;
+}
+
+img {
+    padding-left: 700px;
+
 }
